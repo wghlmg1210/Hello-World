@@ -1,1 +1,5 @@
 modify master
+
+test diff
+
+test diff-cached
