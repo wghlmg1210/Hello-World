@@ -19,9 +19,9 @@ public class GrokFormatMetrics {
     private Counter failureCounter;
 
     public GrokFormatMetrics(MetricGroup group) {
-        com.codahale.metrics.Histogram internel =
+        com.codahale.metrics.Histogram internal =
                 new com.codahale.metrics.Histogram(new SlidingTimeWindowReservoir(10, TimeUnit.SECONDS));
-        this.consumeHistogram = new DropwizardHistogramWrapper(internel);
+        this.consumeHistogram = new DropwizardHistogramWrapper(internal);
         this.consumeHistogram = group.histogram("", this.consumeHistogram);
 
         this.successCounter = group.counter("grok-format.success");
