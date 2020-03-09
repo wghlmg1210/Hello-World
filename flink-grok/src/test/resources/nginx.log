@@ -1,0 +1,10 @@
+172.31.132.129 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-x-tag-get-v1 HTTP/1.1" 200 2391 "-" "Go-http-client/1.1" "-" 857097729 172.31.10.160:5080 upstream_response_time 0.003 request_time 0.004
+172.31.132.129 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-x-tag-get-v1 HTTP/1.1" 200 2391 "-" "Go-http-client/1.1" "-" 857098084 172.31.10.160:5080 upstream_response_time 0.005 request_time 0.004
+172.31.132.124 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-x-tag-get-v1 HTTP/1.1" 200 2384 "-" "Go-http-client/1.1" "-" 857096290 172.31.10.165:5080 upstream_response_time 0.005 request_time 0.006
+172.31.132.129 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-computer-config-get-v1 HTTP/1.1" 200 76 "-" "Go-http-client/1.1" "-" 857097568 172.31.10.161:5080 upstream_response_time 0.004 request_time 0.003
+172.31.132.129 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-url-app-tag-get-v1 HTTP/1.1" 200 82 "-" "Go-http-client/1.1" "-" 857097306 172.31.10.160:5080 upstream_response_time 0.004 request_time 0.004
+172.31.132.129 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-url-app-tag-get-v1 HTTP/1.1" 200 82 "-" "Go-http-client/1.1" "-" 857115681 172.31.10.165:5080 upstream_response_time 0.003 request_time 0.002
+172.31.132.129 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-computer-config-get-v1 HTTP/1.1" 200 76 "-" "Go-http-client/1.1" "-" 857091132 172.31.10.160:5080 upstream_response_time 0.004 request_time 0.003
+172.31.132.124 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-url-app-tag-get-v1 HTTP/1.1" 200 82 "-" "Go-http-client/1.1" "-" 857115244 172.31.10.161:5080 upstream_response_time 0.004 request_time 0.004
+172.31.132.124 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-bar-profile-get-v1 HTTP/1.1" 200 294 "-" "Go-http-client/1.1" "-" 857097653 172.31.10.161:5080 upstream_response_time 0.003 request_time 0.004
+172.31.132.124 - - [05/Mar/2020:22:26:57 +0800] "POST /rtb-apis/rtbs-computer-config-get-v1 HTTP/1.1" 200 76 "-" "Go-http-client/1.1" "-" 857090647 172.31.10.160:5080 upstream_response_time 0.003 request_time 0.004
